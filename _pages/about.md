@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> <a href=https://map5.mi.parisdescartes.fr
 
 profile:
   align: right
-  image: 
+  image: photo_web.jpg
   image_circular: false # crops the image to make it circular
 
 
