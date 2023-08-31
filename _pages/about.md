@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD student, MAP5, Université Paris Cité
 profile:
   align: right
-  image: photo_web.jpg
+  image: photo_website.jpg
   image_circular: false # crops the image to make it circular
 
 
