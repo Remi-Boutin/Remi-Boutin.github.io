@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year PhD student at the [MAP 5 laboratory](https://map5.mi.parisdescartes.fr), 
+I obained my PhD in 2023 at the [MAP 5 laboratory](https://map5.mi.parisdescartes.fr), 
  [Université Paris Cité](https://u-paris.fr/), 
 under the supervision of [Pr. Pierre Latouche](https://lmbp.uca.fr/~latouche/)
 and [Pr. Charles Bouveyron](https://math.univ-cotedazur.fr/~cbouveyr/). 
