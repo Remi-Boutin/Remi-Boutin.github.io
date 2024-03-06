@@ -8,9 +8,16 @@
     - name: Languages
       value: French, English
 
-- title: Education
+- title: Research Experience
   type: time_table
   contents:
+    - title: Post-doctoral position (on-going)
+      institution: LPSM, Sorbonne Université, Paris, France
+      year: 2024
+      description:
+        - Under the direction of senior research scientist Catherine Mathias.
+        - <i> Statistical models for sparse hypergraphs</i>.
+
     - title: PhD in applied mathematics
       institution: MAP5, Université Paris Cité, Paris, France
       year: 2023
@@ -18,7 +25,21 @@
         - Under the direction of Pr. Pierre Latouche and co-direction of Pr. Charles Bouveyron.
         - <i> Deep graphical models and inference strategies for the analysis of networks comprising textual edges</i>.
 
+    - title: Research assistant  (6 months)
+      institution: Argonne national laboratory (ANL), Lemont, USA
+      year: 2019
+      description:
+        - Creation of a generative model to sample car speed profiles based on deep neural networks
 
+    - title: Data Scientist internship (6 months)
+      insitution: Saint-Gobain, Aubervilliers, France
+      year: 2018
+      description:
+        - Identification of causes of flaws in glass production
+
+- title: Education
+  type: time_table
+  contents:
     - title: Engineer in Statistics and Economics
       institution: Ecole nationale de la statistique et de l'administration économique (ENSAE), Palaiseau, France
       year: 2018-2020
@@ -37,22 +58,6 @@
       description:
         - Applied mathematics (analysis, algebra, probabilities and statistics).
         - Economics (Macroeconomics, microeconomics, monetary theory).
-
-
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Research assistant  (6 months)
-      institution: Argonne national laboratory (ANL), Lemont, USA
-      year: 2019
-      description:
-        - Creation of a generative model to sample car speed profiles based on deep neural networks
-
-    - title: Data Scientist internship (6 months)
-      insitution: Saint-Gobain, Aubervilliers, France
-      year: 2018
-      description:
-        - Identification of causes of flaws in glass production
 
 - title: Open Source Projects
   type: time_table
