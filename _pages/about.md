@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I hold a postdoc position at the LPSM laboratory, Sorbonne Université, 
-under the supervision of [Catherine Mathis](http://cmatias.perso.math.cnrs.fr/).
+under the supervision of [Catherine Matias](http://cmatias.perso.math.cnrs.fr/).
 My work focuses on node clustering in sparse hypergraphs.
 
 I obained my PhD in 2023 at the [MAP 5 laboratory](https://map5.mi.parisdescartes.fr), 
