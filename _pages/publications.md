@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My publications are gathered below.
+description: List of my publications below
 years: [2023]
 nav: true
 nav_order: 1
