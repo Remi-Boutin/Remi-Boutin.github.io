@@ -14,7 +14,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I hold a postdoc position at the LPSM laboratory, Sorbonne Université, 
+I am currently involved in a postdoc at the LPSM lab, Sorbonne Université, 
 under the supervision of [Catherine Matias](http://cmatias.perso.math.cnrs.fr/).
 My work focuses on node clustering in sparse hypergraphs.
 
