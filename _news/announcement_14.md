@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Presentation at the [Phd and post doc seminar, LMBP](https://jds2024.sciencesconf.org/), Clermont-Auveregne University intitled 
+Presentation at the **(Post-)doctorant seminar, LMBP** Université de Clermont Auvergne intitled 
 _A brief introduction to probabilistic modelling: the Gaussian mixture model and the EM algorithm_.
