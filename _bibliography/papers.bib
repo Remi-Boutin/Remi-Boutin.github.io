@@ -6,7 +6,7 @@ x---
   title={The Deep Latent Position Block Model for the Clustering of Nodes in Multi-Graphs},
   author={Niang, Seydina Ousmane and Bouveyron, Charles and Corneli, Marco and Latouche, Pierre and Boutin, R{\'e}mi},
   journal={Hal preprint},
-  year={2024},
+  year={2025},
   selected={false},
   preview={deepLPBMM_preview.png},
   html={https://cea.hal.science/JOLIOT/hal-04840577v1},
@@ -16,33 +16,40 @@ x---
 }
 
 
-@article{boutin2024deeplpbm,
+
+
+@article{boutin2025deeplpbm,
 	title={The deep latent position block model for the block clustering and latent representation of networks},
 	author={Boutin, R{\'e}mi and Latouche, Pierre and Bouveyron, Charles},
-	journal={arXiv preprint arXiv:2412.01302},
-	year={2024},
+	journal={Statistics and Computing},
+	volume={35},
+	number={5},
+	pages={1--24},
+	year={2025},
+	publisher={Springer},
 	selected={true},
 	preview={DeepLPBM_preview.png},
 	html={https://hal.science/hal-04808993v1},
 	arxiv={2412.01302},
 	hal={https://hal.science/hal-04808993v1},
 	bibtex_show={true},
-	abstract={The current surge in data has led to a significant increase in the use of networks to model relationships between different objects, represented as nodes. Given the potential for the number of nodes to be substantial, it is essential to summarise network information through node clustering methods. To ensure interpretable results, it is also crucial to employ relevant visualisation techniques to depict the network. To tackle both issues, we propose a new methodology called the deep latent position block model (Deep LPBM). This simultaneously provides a network visualisation coherent with block modelling, allowing a clustering more general than community detection methods, as well as a continuous representation of nodes in a latent space given by partial membership vectors. Our methodology is based on a variational autoencoder strategy, relying on a graph convolutional network, with a specifically designed decoder. The inference is performed using both variational and stochastic approximations to ensure optimal results.To efficiently select the number of clusters, we compare three model selection criteria.An extensive benchmark as well as an evaluation of the partial membership estimation are provided, and we conclude with an analysis of the French political blogosphere network and a comparison with another methodology to illustrate the novelty provided by Deep LPBM results.}
+	abstract={The current surge in data has led to a significant increase in the size of networks used to model relationships between different objects represented as nodes. Therefore, summarising network information is a crucial task that can be conducted using node clustering methods. Additionally, to ensure interpretable results, it is essential to employ relevant visualisation techniques to depict the network. To tackle both issues, we propose a new methodology called the deep latent position block model (Deep LPBM). This simultaneously provides a network visualisation coherent with block modelling, allowing a clustering more general than community detection methods, as well as a continuous representation of nodes in a latent space given by partial membership vectors. Deep LPBM is based on a variational autoencoder strategy, relying on a graph convolutional network, with a specifically designed decoder. The inference involves the construction of an approximation of the marginal likelihood of Deep LPBM through the expected lower bound (ELBO). A gradient-descent algorithm based on Monte-Carlo approximations is used to optimize the ELBO with respect to its parameters. To select the number of clusters, we compare three model selection criteria. A node clustering benchmark comprising positional community detection as well as model methods is conducted. We also compare the quality of Deep LPBM node partial membership estimation with other methodologies. We conclude with an analysis of the French political blogosphere network and a comparison with another methodology to illustrate the novelty provided by Deep LPBM results.}
 }
 
 
-@article{boutin2023deep,
+@article{boutin2025deep,
 	title={The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges},
 	author={Boutin, R{\'e}mi and Latouche, Pierre and Bouveyron, Charles},
-	journal={arXiv preprint arXiv:2304.08242},
-	year={2023},
+	journal={Scandinavian Journal of Statistics},
+	year={2025},
+	publisher={Wiley Online Library},
 	selected={true},
 	preview={deeplptm-image.png},
 	url={https://hal.science/hal-04068665},
 	arxiv={2304.08242},
 	hal={https://hal.science/hal-04068665},
 	bibtex_show={true},
-	abstract={Numerical interactions leading to users sharing textual content published by others are naturally represented by a network where the individuals are associated with the nodes and the exchanged texts with the edges. To understand those heterogeneous and complex data structures, clustering nodes into homogeneous groups as well as rendering a comprehensible visualisation of the data is mandatory. To address both issues, we introduce Deep-LPTM, a model-based clustering strategy relying on a variational graph auto-encoder approach as well as a probabilistic model to characterise the topics of discussion. Deep-LPTM allows to build a joint representation of the nodes and of the edges in two embeddings spaces. The parameters are inferred using a variational inference algorithm. We also introduce IC2L, a model selection criterion specifically designed to choose models with relevant clustering and visualisation properties. An extensive benchmark study on synthetic data is provided. In particular, we find that Deep-LPTM better recovers the partitions of the nodes than the state-of-the art ETSBM and STBM. Eventually, the emails of the Enron company are analysed and visualisations of the results are presented, with meaningful highlights of the graph structure.}
+	abstract={Numerical interactions leading to users sharing textual content published by others are naturally represented by a network where the individuals are associated with the nodes and the exchanged texts with the edges. To understand those heterogeneous and complex data structures, clustering nodes into homogeneous groups as well as rendering a comprehensible visualization of the data is mandatory. To address both issues, we introduce Deep‐LPTM, a model‐based clustering strategy relying on a variational graph auto‐encoder approach and a probabilistic model to characterize the discussion topics. Deep‐LPTM allows to build a joint representation of the nodes and the edges in two embedding spaces. The parameters are inferred using a variational inference algorithm. We also introduce IC2L, a model selection criterion specifically designed to choose models with relevant clustering and visualization properties. An extensive benchmark study on synthetic data is provided. In particular, we find that Deep‐LPTM better recovers the partitions of the nodes than the state‐of‐the‐art ETSBM and STBM. Eventually, the emails of the Enron company are analyzed and visualizations of the results are presented, with meaningful highlights of the graph structure.}
 }
 
 
