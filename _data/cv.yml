@@ -11,7 +11,14 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Post-doctoral position (on-going)
+    - title: Post-doctoral position 
+      institution: LMBP, Factolab & Michelin, Université Clermont Auvergne, Clermont-Ferrand, France
+      year: 2026
+      description:
+        - Under the direction of Pr. Anne-Françoise Yao.
+        - <i>Surrogate modelling, sensibility analysis for simulator modelling</i>.
+
+    - title: Post-doctoral position 
       institution: LPSM, Sorbonne Université, Paris, France
       year: 2024
       description:
